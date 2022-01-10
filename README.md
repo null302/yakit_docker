@@ -2,7 +2,7 @@
 
 说明：没有认证 使用时请注意安全性..
 
-地址：https://github.com/yaklang/yakit
+工具地址：https://github.com/yaklang/yakit
 
 使用方法：直接运行install.sh等待几分钟就好
 
